@@ -3,6 +3,8 @@
 
 This repository contains a two correlating files with exported CSV files for analyzing and summarizing data into the Jupyter Notebook file. All data may not be available as there are specific API keys required for running all the data cells in these notebooks. The directions for the module were to use an API to pull data into a jupyter file, create data and charts against the imported data, and export the findings from the first notebook into the second. The second notebook continued to convert the data and then used another API to cross reference data into another set of dataframes and charts. Other exported items include resource files and supporting images from the data analysis which can be found in the output_data folder.
 
+API Keys are not available in this repository and have been added to the GitIgnore file to prevent accidental sharing of keys.
+
 Additionally, the file also has several factors I wish to address here. First, I did not use the basic colors from the notebook when creating my graphs. I instead used specific tones of green, yellow, blue, pink, and red. This was intentional. These are the same hues from my previous homeworks and I believe it's a better representation of different datasets than plotting all the charts in the same original plot colors. I realize this is a full portfolio of work and I would like my portfolio to show a congruent use of colors and styles across each of my pieces where possible.
 
 ## Results
